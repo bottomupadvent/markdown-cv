@@ -3,7 +3,7 @@ layout: cv
 title: Pranav Chaudhari Resume
 ---
 # Pranav Chaudhari
-Physicist, Mathematician, Cambridge professor.
+Upbringing curiosity in me and others
 
 <div id="webaddress">
 <a href="pranavchaudhari97@gmail.com">pranavchaudhari97@gmail.com</a>
@@ -11,22 +11,20 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Working on contributing to other projects
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Shell scripting, C and Python
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Unix/Linux kernel
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1654-2013`
+__Holy Cross English High School, Mumbai__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
