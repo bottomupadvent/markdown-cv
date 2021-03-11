@@ -4,7 +4,7 @@ title: Pranav Chaudhari Resume
 ---
 
 # Pranav Chaudhari
-Automation 
+Automation, scripting and software development
 
 <div id="webaddress">
 <a href="pranavchaudhari97@gmail.com">pranavchaudhari97@gmail.com</a>
