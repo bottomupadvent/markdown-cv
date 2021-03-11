@@ -1,15 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Pranav Chaudhari Resume
 ---
-# Isaac Newton
+# Pranav Chaudhari
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pranavchaudhari97@gmail.com">pranavchaudhari97@gmail.com</a>
 </div>
-
 
 ## Currently
 
