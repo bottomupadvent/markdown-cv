@@ -6,8 +6,8 @@ title: Pranav Chaudhari Resume
 # Pranav Chaudhari
 Automation, Scripting & Software Development.
 <div id="webaddress">
-<a href="pranavchaudhari97@gmail.com">pranavchaudhari97@gmail.com</a>
-<a href="https://github.com/bottomupadvent">Github</a>
+<a href="pranavchaudhari97@gmail.com">pranavchaudhari97@gmail.com, </a>
+<a href="https://github.com/bottomupadvent">https://github.com/bottomupadvent</a>
 </div>
 
 ## Skills
