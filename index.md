@@ -31,14 +31,14 @@ Unix/Linux Userspace and kernelspace.
 
 ### Education
 
-`-2013`
-Holy Cross English High School, ***Vasai***
+`2009-2013`
+Holy Cross English High School, _Vasai_
 
 `2013-2017`
-**Diploma**, Vidyavardhini's Bhausaheb Vartak Polytechnic, ***Vasai***
+**Diploma**, Vidyavardhini's Bhausaheb Vartak Polytechnic, _Vasai_
 
 `2018-now`
-**Undergrad**, Theem college of Engineering, ***Boisar***
+**Undergrad**, Theem college of Engineering, _Boisar_
 
 
 
