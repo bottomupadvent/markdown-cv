@@ -11,12 +11,12 @@ Automation, Scripting & Software Development.
 
 ## Skills
 
-**Languages** : Python, Shell scripting, GDscript.
-**Workflow**  : tmux & vim, git & github (Basics).
+- **Languages** : Python, Shell scripting, GDscript.
+- **Workflow**  : tmux & vim, git & github (Basics).
 
 ## Research interests
 
-Unix/Linux Userspace and kernelspace.
+- Unix/Linux Userspace and kernelspace.
 
 ## Experience
 
