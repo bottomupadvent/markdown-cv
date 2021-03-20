@@ -7,11 +7,13 @@ title: Pranav Chaudhari Resume
 Automation, Scripting & Software Development.
 <div id="webaddress">
 <a href="pranavchaudhari97@gmail.com">pranavchaudhari97@gmail.com</a>
+<a href="https://github.com/bottomupadvent">Github</a>
 </div>
 
 ## Skills
 
 - **Languages** : Python, Shell scripting, GDscript.
+- **Tools** : Magicavoxel, Aseprite.
 - **Workflow**  : tmux & vim, git & github (Basics).
 
 ## Research interests
