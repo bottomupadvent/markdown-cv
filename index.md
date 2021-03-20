@@ -20,14 +20,18 @@ Unix/Linux Userspace and kernelspace.
 
 ## Experience
 
-**4+ years in unix/linux environment.**
-**X11 automation.**
-Browser automation using imacros.
+- **4+ years in unix/linux environment.**
+- **X11 automation.**
+- Browser automation using imacros.
 
 ## Projects
 
-**Game development in godot engine.**
-Simple **game** in python using **arcade library.**
+- **Game development in godot engine.**
+- Simple **game** in python using **arcade library.**
+
+## Education
+
+
 
 
 <!-- ### Footer
