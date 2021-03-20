@@ -27,18 +27,18 @@ Unix/Linux Userspace and kernelspace.
 ## Projects
 
 - Game development in **Godot engine.**
-- Simple **game** using **arcade library** for python.
+- Simple game using **arcade library for python.**
 
 ### Education
 
 `-2013`
-Holy Cross English High School, Vasai.
+Holy Cross English High School, ***Vasai***
 
 `2013-2017`
-Diploma, Vidyavardhini's Bhausaheb Vartak Polytechnic, Vasai.
+**Diploma**, Vidyavardhini's Bhausaheb Vartak Polytechnic, ***Vasai***
 
 `2018-now`
-Undergrad, Theem college of Engineering, Boisar.
+**Undergrad**, Theem college of Engineering, ***Boisar***
 
 
 
