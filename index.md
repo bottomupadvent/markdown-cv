@@ -16,7 +16,7 @@ Automation, Scripting & Software Development.
 
 ## Research interests
 
-- Unix/Linux Userspace and kernelspace.
+Unix/Linux Userspace and kernelspace.
 
 ## Experience
 
@@ -26,10 +26,19 @@ Automation, Scripting & Software Development.
 
 ## Projects
 
-- Game development in **Godot engine.****
+- Game development in **Godot engine.**
 - Simple **game** using **arcade library** for python.
 
-## Education
+### Education
+
+`-2013`
+Holy Cross English High School, Vasai.
+
+`2013-2017`
+Diploma, Vidyavardhini's Bhausaheb Vartak Polytechnic, Vasai.
+
+`2018-now`
+Undergrad, Theem college of Engineering, Boisar.
 
 
 
