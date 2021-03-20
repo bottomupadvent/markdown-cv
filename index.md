@@ -14,7 +14,7 @@ Automation, Scripting & Software Development aiming to be a kernel developer
 - **Workflow**  : tmux & vim
 
 ## Research interests
-- Unix/Linux Userspace and kernelspace
+Unix/Linux Userspace and kernelspace
 
 ## Experience
 - 4+ years in unix/linux environment
