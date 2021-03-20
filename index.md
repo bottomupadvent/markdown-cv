@@ -20,14 +20,14 @@ Automation, Scripting & Software Development.
 
 ## Experience
 
-- **4+ years in unix/linux environment.**
 - **X11 automation.**
-- Browser automation using imacros.
+- 4+ years in unix/linux environment.
+- Browser automation using Imacros.
 
 ## Projects
 
-- **Game development in godot engine.**
-- Simple **game** in python using **arcade library.**
+- Game development in **Godot engine.****
+- Simple **game** using **arcade library** for python.
 
 ## Education
 
