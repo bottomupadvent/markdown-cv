@@ -22,25 +22,25 @@ Unix/Linux Userspace and kernelspace.
 
 ## Experience
 
-- **X11 automation.**
+- **X11 automation**.
 - 4+ years in unix/linux environment.
 - Browser automation using Imacros.
 
 ## Projects
 
-- Game development in **Godot engine.**
-- Simple game using **arcade library for python.**
+- Game development in **Godot engine**.
+- Simple game using **arcade library for python**.
 
 ### Education
 
 `2009-2013`
-Holy Cross English High School, _Vasai_
+Holy Cross English High School, *Vasai*.
 
 `2013-2017`
-**Diploma**, Vidyavardhini's Bhausaheb Vartak Polytechnic, _Vasai_
+**Diploma**, Vidyavardhini's Bhausaheb Vartak Polytechnic, *Vasai*.
 
 `2018-now`
-**Undergrad**, Theem college of Engineering, _Boisar_
+**Undergrad**, Theem college of Engineering, *Boisar*.
 
 
 
