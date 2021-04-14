@@ -15,8 +15,8 @@ Automation, Scripting & Software Development.
 
 **Languages**: Python, Shell scripting, GDscript, C.
 **Tools**: **Godot (Game Engine), Arcade (Library), Imacros**, Magicavoxel (3D modelling), Aseprite (Pixelart).
-- **Automation**: **Browser automation, X11 automation**.
-- **Workflow**: dwm + tmux + vim + git.
+**Automation**: **Browser automation, X11 automation**.
+**Workflow**: dwm + tmux + vim + git.
 
 ## Research interests
 
