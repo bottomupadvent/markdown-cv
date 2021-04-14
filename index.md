@@ -38,7 +38,7 @@ Unix/Linux Kernelspace and Userspace.
 ### Education
 
 `2009-2013`
-Holy Cross English High School, *Vasai*.
+Holy Cross English High School, Vasai.
 
 `2013-2017`
 Diploma, Vidyavardhini's Bhausaheb Vartak Polytechnic, Vasai.
