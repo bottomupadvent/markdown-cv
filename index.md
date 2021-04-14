@@ -29,9 +29,9 @@ Unix/Linux kernelspace and userspace.
 
 ## Projects
 
-1. **Game development in Godot engine**.
+- **Game development in Godot engine**.
     - ***Game Idea*** : Navigating through railway platform rush to catch the train.
-2. **Simple game using arcade library for python**.
+- **Simple game using arcade library for python**.
 
 ### Education
 
