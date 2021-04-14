@@ -4,7 +4,7 @@ title: Pranav Chaudhari Resume
 ---
 
 # Pranav Chaudhari
-Automation, Scripting & Software Development.
+
 <div id="webaddress">
 <a href="pranavchaudhari97@gmail.com">pranavchaudhari97@gmail.com, </a>
 <a href="https://github.com/bottomupadvent">https://github.com/bottomupadvent</a>
@@ -13,10 +13,10 @@ Automation, Scripting & Software Development.
 
 ## Technical Skills
 
-- **Languages**: Python, Shell scripting, GDscript, C.
-- **Tools**: **Godot (Game Engine), Arcade (Library), Imacros**, Magicavoxel (3D modelling), Aseprite (Pixelart).
+- **Languages**:  Python, Shell scripting, GDscript, C.
+- **Tools**:      **Godot (Game Engine), Arcade (Library), Imacros**, Magicavoxel (3D modelling), Aseprite (Pixelart).
 - **Automation**: **Browser automation, X11 automation**.
-- **Workflow**: dwm + tmux + vim + git.
+- **Workflow**:   dwm + tmux + vim + git.
 
 ## Research interests
 
