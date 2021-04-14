@@ -14,9 +14,10 @@ Staying resolute on following the path to become Linux Kernel Dev.
 ## Technical Skills
 
 - **Languages**: Python, Shell scripting, GDscript, C.
-- **Tools**: Godot (Game Engine), Arcade (Library), Imacros, Magicavoxel (3D modelling), Aseprite (Pixelart).
+- **Tools**: Godot (Game Engine), Arcade (Library), Imacros, Magicavoxel, Aseprite.
 - **Automation**: Browser automation, X11 automation.
 - **Workflow**: dwm + tmux + vim + git.
+- **Core understanding of Linux operating system**.
 
 ## Research interests
 
@@ -24,7 +25,8 @@ Unix/Linux kernelspace and userspace.
 
 ## Experience
 
-- Core understanding of Linux operating system.
+- Creating robust cross-platform UI/UX using Godot built in UI/UX system.
+- 3D modelling using magicavoxel and PixelArt using aseprite.
 - Competitive programming.
 
 ## Projects
