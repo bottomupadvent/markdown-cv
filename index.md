@@ -21,7 +21,7 @@ Staying resolute on following the path to become Linux Kernel Dev.
 
 ## Research interests
 
-Unix/Linux kernelspace and userspace.
+Unix/Linux Kernelspace and Userspace.
 
 ## Experience
 
@@ -32,7 +32,7 @@ Unix/Linux kernelspace and userspace.
 ## Projects
 
 - Game development in Godot engine.
-    - **Game Idea** : Navigating through railway platform rush to catch the train.
+    - **Game Idea**: Navigating through railway platform rush to catch the train.
 - Simple game using Arcade library in Python.
 
 ### Education
