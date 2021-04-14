@@ -15,12 +15,12 @@ Staying resolute on following the path to become linux kernel dev.
 
 - **Languages**:  Python, Shell scripting, GDscript, C.
 - **Tools**:      <u>Godot (Game Engine), Arcade (Library), Imacros</u>, Magicavoxel (3D modelling), Aseprite (Pixelart).
-- **Automation**: <u>Browser automation, X11 automation</u>.
+- <u>Automation</u>: <b>Browser automation, X11 automation</b>.
 - **Workflow**:   dwm + tmux + vim + git.
 
 ## Research interests
 
-Unix/Linux kernelspace and userspace.
+**Unix/Linux kernelspace and userspace**.
 
 ## Experience
 
@@ -39,10 +39,10 @@ Unix/Linux kernelspace and userspace.
 Holy Cross English High School, *Vasai*.
 
 `2013-2017`
-**Diploma**, Vidyavardhini's Bhausaheb Vartak Polytechnic, *Vasai*.
+Diploma, Vidyavardhini's Bhausaheb Vartak Polytechnic, Vasai.
 
 `2018-now`
-**Undergrad**, Theem college of Engineering, *Boisar*.
+Undergrad, Theem college of Engineering, Boisar.
 
 
 <!-- ### Footer
