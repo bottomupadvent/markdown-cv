@@ -22,7 +22,7 @@ Staying resolute on following the path to become linux kernel dev.
 
 **Unix/Linux kernelspace and userspace**.
 
-## Experience
+### Experience
 
 - Core understanding of Linux operating system.
 - Competitive programming.
