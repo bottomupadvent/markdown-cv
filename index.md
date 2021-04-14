@@ -13,7 +13,7 @@ Automation, Scripting & Software Development.
 
 ## Technical Skills
 
-- ***Languages***: Python, Shell scripting, GDscript, C.
+- ***_Languages_***: Python, Shell scripting, GDscript, C.
 - ***Tools***: **Godot (Game Engine), Arcade (Library), Imacros**, Magicavoxel (3D modelling), Aseprite (Pixelart).
 - ***Automation***: **Browser automation, X11 automation**.
 - ***Workflow***: dwm + tmux + vim + git.
