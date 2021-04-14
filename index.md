@@ -15,12 +15,12 @@ Staying resolute on following the path to become linux kernel dev.
 
 - **Languages**:  Python, Shell scripting, GDscript, C.
 - **Tools**:      <u>Godot (Game Engine), Arcade (Library), Imacros</u>, Magicavoxel (3D modelling), Aseprite (Pixelart).
-- <u>Automation</u>: <b>Browser automation, X11 automation</b>.
+- <u>Automation</u>: **Browser automation, X11 automation**.
 - **Workflow**:   dwm + tmux + vim + git.
 
 ## Research interests
 
-**Unix/Linux kernelspace and userspace**.
+Unix/Linux kernelspace and userspace.
 
 ### Experience
 
