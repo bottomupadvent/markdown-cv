@@ -14,9 +14,9 @@ Automation, Scripting & Software Development.
 ## Technical Skills
 
 - **Languages** : Python, Shell scripting, GDscript, C.
-- **Tools** : Godot (Game Engine), Arcade (Library), Magicavoxel (3D modelling), Aseprite (Pixelart)
-- **Automation** : Browser automation using Imacros, X11 automation.
-- **Workflow**  : dwm + tmux + vim, git & github (Basics).
+- **Tools** : ***Godot (Game Engine), Arcade (Library), Imacros***, Magicavoxel (3D modelling), Aseprite (Pixelart).
+- **Automation** : ***Browser automation, X11 automation.***
+- **Workflow**  : dwm + tmux + vim + git.
 
 ## Research interests
 
@@ -29,8 +29,9 @@ Unix/Linux kernelspace and userspace.
 
 ## Projects
 
-- Game development in **Godot engine**.
-- Simple game using **arcade library for python**.
+- ***Game development in Godot engine***.
+    - **Game Idea** : Navigating through railway platform rush to catch the train.
+- ***Simple game using arcade library for python***.
 
 ### Education
 
