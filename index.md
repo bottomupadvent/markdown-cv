@@ -20,7 +20,7 @@ Automation, Scripting & Software Development.
 
 ## Research interests
 
-Unix/Linux kernelspace and userspace.
+**Unix/Linux kernelspace and userspace**.
 
 ## Experience
 
@@ -29,9 +29,9 @@ Unix/Linux kernelspace and userspace.
 
 ## Projects
 
-**Game development in Godot engine**.
-    **Game Idea** : Navigating through railway platform rush to catch the train.
-**Simple game using arcade library for python**.
+- **Game development in Godot engine**.
+    - **Game Idea** : Navigating through railway platform rush to catch the train.
+- **Simple game using arcade library for python**.
 
 ### Education
 
