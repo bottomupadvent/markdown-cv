@@ -4,7 +4,7 @@ title: Pranav Chaudhari Resume
 ---
 
 # Pranav Chaudhari
-Staying resolute on following the path to become linux kernel dev.
+Staying resolute on following the path to become Linux Kernel Dev.
 <div id="webaddress">
 <a href="pranavchaudhari97@gmail.com">pranavchaudhari97@gmail.com, </a>
 <a href="https://github.com/bottomupadvent">https://github.com/bottomupadvent</a>
@@ -13,16 +13,16 @@ Staying resolute on following the path to become linux kernel dev.
 
 ## Technical Skills
 
-- **Languages**:  Python, Shell scripting, GDscript, C.
-- **Tools**:      <u>Godot (Game Engine), Arcade (Library), Imacros</u>, Magicavoxel (3D modelling), Aseprite (Pixelart).
-- <u>Automation</u>: **Browser automation, X11 automation**.
-- **Workflow**:   dwm + tmux + vim + git.
+- **Languages**: Python, Shell scripting, GDscript, C.
+- **Tools**: Godot (Game Engine), Arcade (Library), Imacros, Magicavoxel (3D modelling), Aseprite (Pixelart).
+- **Automation**: Browser automation, X11 automation.
+- **Workflow**: dwm + tmux + vim + git.
 
 ## Research interests
 
 Unix/Linux kernelspace and userspace.
 
-### Experience
+## Experience
 
 - Core understanding of Linux operating system.
 - Competitive programming.
