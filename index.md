@@ -31,7 +31,7 @@ Staying resolute on following the path to become linux kernel dev.
 
 - **Game development in Godot engine**.
     - **Game Idea** : Navigating through railway platform rush to catch the train.
-- **Simple game using Arcade library for python**.
+- **Simple game using Arcade library in Python**.
 
 ### Education
 
