@@ -4,7 +4,7 @@ title: Pranav Chaudhari Resume
 ---
 
 # Pranav Chaudhari
-
+Staying resolute on following the path to become linux kernel dev.
 <div id="webaddress">
 <a href="pranavchaudhari97@gmail.com">pranavchaudhari97@gmail.com, </a>
 <a href="https://github.com/bottomupadvent">https://github.com/bottomupadvent</a>
@@ -24,14 +24,14 @@ title: Pranav Chaudhari Resume
 
 ## Experience
 
-- Core understanding of Linux operating system.
+- **Core understanding of Linux operating system.**
 - Competitive programming.
 
 ## Projects
 
 - **Game development in Godot engine**.
     - **Game Idea** : Navigating through railway platform rush to catch the train.
-- **Simple game using arcade library for python**.
+- **Simple game using Arcade library for python**.
 
 ### Education
 
