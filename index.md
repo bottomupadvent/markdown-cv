@@ -10,21 +10,22 @@ Automation, Scripting & Software Development.
 <a href="https://github.com/bottomupadvent">https://github.com/bottomupadvent</a>
 </div>
 
-## Skills
 
-- **Languages** : Python, Shell scripting, GDscript.
-- **Tools** : Magicavoxel, Aseprite.
-- **Workflow**  : tmux & vim, git & github (Basics).
+## Technical Skills
+
+- **Languages** : Python, Shell scripting, GDscript, C.
+- **Tools** : Godot (Game Engine), Arcade (Library), Magicavoxel (3D modelling), Aseprite (Pixelart)
+- **Automation** : Browser automation using Imacros, X11 automation.
+- **Workflow**  : dwm + tmux + vim, git & github (Basics).
 
 ## Research interests
 
-Unix/Linux Userspace and kernelspace.
+Unix/Linux kernelspace and userspace.
 
 ## Experience
 
-- **X11 automation**.
-- 4+ years in unix/linux environment.
-- Browser automation using Imacros.
+- Core understanding of Linux operating system.
+- Competitive programming.
 
 ## Projects
 
